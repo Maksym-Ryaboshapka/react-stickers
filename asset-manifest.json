@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-stickers/static/css/main.4e6b81df.css",
+    "main.js": "/react-stickers/static/js/main.890e6fde.js",
+    "index.html": "/react-stickers/index.html",
+    "main.4e6b81df.css.map": "/react-stickers/static/css/main.4e6b81df.css.map",
+    "main.890e6fde.js.map": "/react-stickers/static/js/main.890e6fde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6b81df.css",
+    "static/js/main.890e6fde.js"
+  ]
+}
